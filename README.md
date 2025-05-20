@@ -1,5 +1,5 @@
 # Fitting Poisson  distribution
-# Date:29/04/2025
+# Date:14/03/2025
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
